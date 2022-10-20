@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "tagfinder": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\kiril\\Downloads\\Telegram Desktop\\ChatExport_2022-10-19\\result.json"
+    }
+  }
+}
